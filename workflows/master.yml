@@ -25,4 +25,4 @@ jobs:
         server: ftp.simbalaruee.altervista.org
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        local-dir: ./Cycle-TEM/
+        local-dir: ./html/
